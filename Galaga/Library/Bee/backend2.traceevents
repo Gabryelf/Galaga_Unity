@@ -1,0 +1,793 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1731152634842887, "dur":14914, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152634857808, "dur":120, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152634857960, "dur":53, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1731152634858013, "dur":215, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152634858391, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a" }}
+,{ "pid":12345, "tid":0, "ts":1731152634858828, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/oih3y2kdvdvo.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634859034, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g1bkua837fbq.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634859205, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a357bc3whur1.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634859394, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a2ey40jkalme.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634859835, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4yvsqh1ig9p0.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634859974, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/whq9lpo9sb61.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634860245, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3jqsuceqvg5w.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634860479, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tlgnpw442bo7.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634860681, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/onbfh32k2orc.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634860816, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tkhrfu8lbvs7.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634860947, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i061p7b9ma76.o" }}
+,{ "pid":12345, "tid":0, "ts":1731152634858264, "dur":5425, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152634863691, "dur":67045626, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152701909323, "dur":505, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152701909839, "dur":74, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152701909998, "dur":2542, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1731152634858593, "dur":5103, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152634864187, "dur":574, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1731152634864762, "dur":81, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/il2cpp/external/zlib" }}
+,{ "pid":12345, "tid":1, "ts":1731152634864844, "dur":57, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/il2cpp/external/zlib" }}
+,{ "pid":12345, "tid":1, "ts":1731152634865059, "dur":1893, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152634867216, "dur":52, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/brotli/enc" }}
+,{ "pid":12345, "tid":1, "ts":1731152634867305, "dur":74, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/brotli/enc" }}
+,{ "pid":12345, "tid":1, "ts":1731152634867534, "dur":53, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib" }}
+,{ "pid":12345, "tid":1, "ts":1731152634867587, "dur":136, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules" }}
+,{ "pid":12345, "tid":1, "ts":1731152634867744, "dur":51, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/WebGLTemplates/Default" }}
+,{ "pid":12345, "tid":1, "ts":1731152634867795, "dur":53, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/unity6000/6000.0.3f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1731152634863697, "dur":4220, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152634867927, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/4380334722043782065.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1731152634868156, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634868266, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634868374, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634868523, "dur":257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634868828, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634868975, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634869031, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634869249, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634869442, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152634869929, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\UnityLinkerInputs\\EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":1, "ts":1731152634868017, "dur":2234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker D:/unityTemp2/Galaga-master/Galaga/Library/Bee/artifacts/unitylinker_ber2.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1731152634870625, "dur":107, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152634875936, "dur":2615425, "ph":"X", "name": "UnityLinker",  "args": { "detail":"D:/unityTemp2/Galaga-master/Galaga/Library/Bee/artifacts/unitylinker_ber2.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1731152637494967, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152637495122, "dur":787, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152637495988, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152637496192, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152637496324, "dur":782, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731152637494494, "dur":2615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"IL2CPP_CodeGen D:/unityTemp2/Galaga-master/Galaga/Library/Bee/artifacts/il2cpp_conv_oemh.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1731152637497110, "dur":906, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637498946, "dur":346, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__10.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499298, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637498937, "dur":430, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/iol8cyvdrtyk.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499395, "dur":71, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericInstDefinitions.c" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499386, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r11yatg0tdli.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499532, "dur":223, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__31.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499763, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499521, "dur":334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/iczxx3pzgs2o.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499880, "dur":488, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInvokerTable.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637500377, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637499869, "dur":588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sl182iektkyu.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637500491, "dur":309, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp__1.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637500808, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637500480, "dur":408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f3y6vy08671f.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637500919, "dur":354, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__16.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501280, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637500909, "dur":455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y0285x5t233r.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501398, "dur":166, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501572, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501388, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tosff9kagnju.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501682, "dur":201, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__2.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501894, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501669, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0u1p980fm7qq.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502004, "dur":379, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__57.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502390, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637501994, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/anhlabnj5u9e.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502490, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ffytis7w02d6.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502582, "dur":246, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__59.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502836, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502572, "dur":341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wa5pa0hfcl2d.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502941, "dur":188, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637503147, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637502929, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/k0eeukkg7sp2.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637503285, "dur":350, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreFontEngineModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637503642, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637503269, "dur":454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4ktw8vf70f4e.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637503765, "dur":187, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__1.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637503959, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637503742, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zmh9otkhi59a.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504060, "dur":325, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__39.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504393, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504049, "dur":419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i64ntp2h7a4n.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504495, "dur":289, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504794, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504485, "dur":406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cqg66n6bz10a.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504934, "dur":291, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__4.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637505233, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637504923, "dur":391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gj8f7n4jffhv.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637505372, "dur":266, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__6.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637505643, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637505358, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9xkreczay167.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637505748, "dur":299, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__20.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637506053, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637505736, "dur":395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5i2jqrnvuc3b.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637506157, "dur":332, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__7.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637506495, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637506147, "dur":420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w6onl4tv62f7.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637506594, "dur":291, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__56.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637506892, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637506585, "dur":387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p7dxu18l26xv.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637507019, "dur":323, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__1.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637507348, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637507007, "dur":429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xtyimahh87sz.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637507453, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8zak4ubgssjz.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637507536, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637507640, "dur":517, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__18.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637508163, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637507628, "dur":625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/l6bvh0supmcm.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637508274, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/50pb541rmq8s.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637508374, "dur":479, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__2.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637508860, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637508357, "dur":597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lazn8217tbg5.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637509007, "dur":362, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__5.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637509375, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637508992, "dur":460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7xsip798vlv8.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637509493, "dur":433, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__4.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637509932, "dur":58, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637509483, "dur":507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mipu9xvbtxjp.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637510014, "dur":206, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__12.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1731152637510226, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152637510005, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9ulrrwmydsam.o" }}
+,{ "pid":12345, "tid":1, "ts":1731152637510343, "dur":64359468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731152701870630, "dur":931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/unity-logo-title-footer.png" }}
+,{ "pid":12345, "tid":1, "ts":1731152701871595, "dur":475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/progress-bar-full-light.png" }}
+,{ "pid":12345, "tid":1, "ts":1731152701872077, "dur":37239, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634858822, "dur":4888, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634863712, "dur":256, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634863968, "dur":207, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634864176, "dur":174, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634864350, "dur":175, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634864525, "dur":308, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634864833, "dur":173, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634865006, "dur":2945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152634867995, "dur":2626594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637494589, "dur":4450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637499078, "dur":468, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__13.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637499571, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637499039, "dur":631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b5unltuzrbud.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637499705, "dur":110, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1731152637499693, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6ompujwjiqau.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637499877, "dur":166, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1731152637499857, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ywvq45ocyzlw.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637500094, "dur":512, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__7.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637500612, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637500084, "dur":589, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a647yrf913nn.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637500712, "dur":303, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__50.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501021, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637500701, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b1vbz4qziepv.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501147, "dur":248, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__52.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501409, "dur":111, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501136, "dur":384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xojgztlvp4hu.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501557, "dur":190, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__11.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501753, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501544, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/59nbqa24lz6a.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501887, "dur":273, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637502166, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637501874, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gtnl0tuoq5oh.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637502268, "dur":353, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__3.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637502633, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637502253, "dur":475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nxsd6wms1euy.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637502770, "dur":240, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__13.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503016, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637502758, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a357bc3whur1.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503186, "dur":267, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__4.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503458, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503139, "dur":399, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8cw1l60p425h.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503570, "dur":51, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503557, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8bxd9nc2r053.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503700, "dur":60, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodPointerTable.c" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503687, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7kazthqziomz.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503815, "dur":395, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__23.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637504217, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637503805, "dur":496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h55qkzsdkzqw.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637504377, "dur":256, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__6.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637504640, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637504365, "dur":368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u0j6lvvlbtyg.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637504794, "dur":346, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__18.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637505149, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637504780, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/iiry8j8vhc0j.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637505427, "dur":479, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637505916, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637505249, "dur":753, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0c0qplw1v4h0.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506094, "dur":183, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__11.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506283, "dur":63, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506082, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jw5oxdccvvf0.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506372, "dur":291, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506670, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506362, "dur":385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6wsj5ts33cvc.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506782, "dur":296, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__14.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637507085, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637506765, "dur":390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vi9vrlhuki3k.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637507179, "dur":219, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.ParticleSystemModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637507406, "dur":102, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637507169, "dur":339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0b8rwlw88ab7.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637507533, "dur":369, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__4.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637507908, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637507522, "dur":467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/32dfjt6fspj5.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637508018, "dur":172, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1731152637508009, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s1gw9f7f55ri.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637508311, "dur":450, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__15.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637508769, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637508261, "dur":579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bf05slz27xv1.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637508875, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/l7jbrhnwe25p.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637509002, "dur":278, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__1.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637509286, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637508990, "dur":361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g75tyovlhx9q.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637509378, "dur":234, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__7.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637509630, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637509369, "dur":335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v83m6ackfvfw.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637509731, "dur":448, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1731152637510186, "dur":114, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637509721, "dur":580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jzgafiggzt33.o" }}
+,{ "pid":12345, "tid":2, "ts":1731152637510320, "dur":520, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731152637511089, "dur":64358679, "ph":"X", "name": "Brotli",  "args": { "detail":"D:/galaga_web/Build/galaga_web.wasm.unityweb" }}
+,{ "pid":12345, "tid":2, "ts":1731152701870829, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/unity-logo-dark.png" }}
+,{ "pid":12345, "tid":2, "ts":1731152701871737, "dur":403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/progress-bar-full-dark.png" }}
+,{ "pid":12345, "tid":2, "ts":1731152701872147, "dur":37165, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634858647, "dur":5058, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634863708, "dur":264, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634863972, "dur":226, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634864198, "dur":181, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634864379, "dur":176, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634864555, "dur":302, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634864895, "dur":3059, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634868367, "dur":184, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_7kyv.info" }}
+,{ "pid":12345, "tid":3, "ts":1731152634868740, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731152634869055, "dur":208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731152634869265, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731152634869444, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731152634869902, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerac14c967-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1731152634868551, "dur":1459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WebGL/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1731152634870457, "dur":81, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152634870782, "dur":84916, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WebGL/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1731152634957837, "dur":2536750, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637494587, "dur":4445, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637499057, "dur":460, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SpriteShapeModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637499534, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637499033, "dur":581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zll2m4y1ii6w.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637499641, "dur":383, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__44.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500030, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637499630, "dur":464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/whq9lpo9sb61.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500116, "dur":192, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__26.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500318, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500107, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o8wj0x16tdve.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500451, "dur":361, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__2.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500819, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500434, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i9161jvebw4i.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500932, "dur":74, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1731152637500920, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mm4tne7hmeek.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637501059, "dur":389, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__18.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637501456, "dur":106, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637501049, "dur":513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3tk5rz6lyyoi.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637501599, "dur":318, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__49.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637501924, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637501584, "dur":419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p8461csy9f3i.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502035, "dur":400, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule__1.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502441, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502024, "dur":502, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/d49gy07hlkrs.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502580, "dur":65, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502561, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pn386xhfe6m3.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502676, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502792, "dur":310, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues1.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637503109, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637502781, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/430ougursyur.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637503250, "dur":337, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__33.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637503593, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637503237, "dur":446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o759smium4pr.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637503712, "dur":200, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__14.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637503918, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637503702, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qzwhdcl549ji.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504029, "dur":326, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__38.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504363, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504019, "dur":438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hyk789lj38m8.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504485, "dur":253, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__58.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504745, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504475, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bv11uq3h9wqu.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504856, "dur":367, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637505229, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637504835, "dur":477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/za3bcdm2yc5v.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637505339, "dur":377, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__12.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637505722, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637505327, "dur":460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r7chhx864fyp.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637505817, "dur":133, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__41.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637505957, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637505807, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pezg6qfgjx1j.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637506088, "dur":446, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__13.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637506541, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637506072, "dur":553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5jttx2671l8y.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637506661, "dur":300, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__32.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637506967, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637506645, "dur":395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3r2ldd4wjge8.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507067, "dur":288, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507367, "dur":116, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507057, "dur":426, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u9to40io9l5q.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507533, "dur":305, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__5.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507844, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507522, "dur":408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qbibql100qs4.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507954, "dur":272, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__48.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637508233, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637507946, "dur":380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4s1im3d16rrz.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637508352, "dur":489, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637508847, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637508340, "dur":601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ybuli0qhodtq.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637508980, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tintegaf5fyq.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509146, "dur":327, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.GridModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509481, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509134, "dur":415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dtci5qrmhfpf.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509592, "dur":147, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCodeRegistration.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509748, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509580, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6av27x4orhb1.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509868, "dur":366, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__1.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1731152637510249, "dur":115, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152637509859, "dur":505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i061p7b9ma76.o" }}
+,{ "pid":12345, "tid":3, "ts":1731152637510377, "dur":64359445, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731152701869826, "dur":101, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS D:/galaga_web/index.html" }}
+,{ "pid":12345, "tid":3, "ts":1731152701870038, "dur":39224, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"D:/galaga_web/index.html" }}
+,{ "pid":12345, "tid":4, "ts":1731152634858964, "dur":4754, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634863720, "dur":227, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634863947, "dur":235, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634864183, "dur":168, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634864352, "dur":172, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634864524, "dur":310, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634864834, "dur":174, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634865008, "dur":2918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152634867998, "dur":2626496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637494539, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731152637494692, "dur":228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731152637494968, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731152637495032, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731152637495349, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731152637495548, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731152637495805, "dur":825, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731152637494495, "dur":2271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ICallRegistrationGenerator D:/unityTemp2/Galaga-master/Galaga/Library/Bee/artifacts/WebGL/il2cppOutput/UnityICallRegistration.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637496817, "dur":2220, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637499057, "dur":599, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__17.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637499663, "dur":110, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637499037, "dur":737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x2natauyeoo0.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637499826, "dur":437, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__3.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637500269, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637499798, "dur":545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fbozm8nlbd0f.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637500424, "dur":384, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__16.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637500815, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637500405, "dur":493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zioqhbyyiwjn.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637500967, "dur":84, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.GridModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1731152637500948, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9idh6wl7iawv.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501114, "dur":113, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501103, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lukcrl1rvj5e.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501298, "dur":305, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppReversePInvokeWrapperTable.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501610, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501275, "dur":413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tkhrfu8lbvs7.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501734, "dur":60, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501724, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f94psoj4kllb.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501843, "dur":288, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Configuration.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637502136, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637501833, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r1qc24w7nwoz.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637502269, "dur":549, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__6.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637502824, "dur":153, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637502255, "dur":722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/brlz5ufy3e4n.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637503040, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/emph3di1imj0.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637503180, "dur":426, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__8.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637503615, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637503163, "dur":538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/go7amkqhijrf.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637503738, "dur":453, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637504197, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637503727, "dur":554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rez3vsch30ju.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637504310, "dur":475, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__13.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637504795, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637504299, "dur":593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sfxx1cp58hf5.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637504924, "dur":279, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCTypeValuesTable.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637505210, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637504911, "dur":395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/onbfh32k2orc.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637505339, "dur":421, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__14.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637505766, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637505328, "dur":510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dv0lhm32b6qo.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637505924, "dur":437, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__34.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637506367, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637505910, "dur":521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pfqqd2ysq666.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637506457, "dur":339, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__40.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637506803, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637506448, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4yvsqh1ig9p0.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637506906, "dur":470, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__1.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637507384, "dur":131, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637506897, "dur":618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sniva6fde7tl.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637507549, "dur":132, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__42.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637507686, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637507534, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/au24l0tdmld3.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637507806, "dur":329, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637508141, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637507792, "dur":432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/iqzaldg7rimy.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637508290, "dur":351, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637508647, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637508241, "dur":468, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xuhj5m9ob30z.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637508739, "dur":201, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateTypeValues.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637508948, "dur":116, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637508730, "dur":334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/396ittj1qgfe.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637509098, "dur":501, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.HierarchyCoreModule.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637509606, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637509086, "dur":610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vwmx8lj0uepo.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637509724, "dur":276, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__3.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637510005, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637509708, "dur":371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4nu6pw64t0z5.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637510108, "dur":222, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__9.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1731152637510351, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152637510098, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g1bkua837fbq.o" }}
+,{ "pid":12345, "tid":4, "ts":1731152637510427, "dur":64359413, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731152701869845, "dur":972, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"PreprocessJS D:/galaga_web/TemplateData/style.css" }}
+,{ "pid":12345, "tid":4, "ts":1731152701870855, "dur":37994, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"D:/galaga_web/TemplateData/style.css" }}
+,{ "pid":12345, "tid":4, "ts":1731152701908862, "dur":452, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152634858612, "dur":5088, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152634863702, "dur":593, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152634864296, "dur":204, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152634864500, "dur":192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152634864692, "dur":309, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152634865001, "dur":2930, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152634868223, "dur":749955, "ph":"X", "name": "PreprocessJS",  "args": { "detail":"Library/Bee/artifacts/WebGLgalaga_web.loader.js" }}
+,{ "pid":12345, "tid":5, "ts":1731152635618217, "dur":1876327, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637494571, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityLinkerToEditorData.json" }}
+,{ "pid":12345, "tid":5, "ts":1731152637494545, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json" }}
+,{ "pid":12345, "tid":5, "ts":1731152637494868, "dur":739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Temp/EditorBuildOutput/UnityLinkerToEditorData.json" }}
+,{ "pid":12345, "tid":5, "ts":1731152637495622, "dur":3414, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499060, "dur":271, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__11.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499339, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499037, "dur":374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ofi3bn80a4y2.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499438, "dur":173, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499622, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499430, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qz81oho0emcx.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499750, "dur":454, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInteropDataTable.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637500217, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637499731, "dur":582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ftcd6jntg888.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637500354, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f60fh1k0716x.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637500440, "dur":393, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__15.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637500842, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637500431, "dur":486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wqtcc1xsokk0.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637501033, "dur":293, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__2.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637501334, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637501020, "dur":385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uvkb7y9n8oow.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637501452, "dur":475, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__10.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637501934, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637501435, "dur":591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/lc64legcz3an.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637502046, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/38y2nxd21973.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637502137, "dur":419, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__10.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637502562, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637502129, "dur":506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3zefwdu37fnj.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637502658, "dur":355, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__3.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503020, "dur":88, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637502648, "dur":461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6p2bocg5wzro.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503122, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zajgv5nf0re9.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503291, "dur":230, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PropertiesModule_CodeGen.c" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503278, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2r9dg91nu4an.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503573, "dur":173, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputForUIModule.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503792, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503563, "dur":311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mefdro35wxqi.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503945, "dur":181, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core_CodeGen.c" }}
+,{ "pid":12345, "tid":5, "ts":1731152637503932, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/winkndhsjf00.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637504210, "dur":58, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":5, "ts":1731152637504198, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u7yoh58lzhc6.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637504332, "dur":323, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__60.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637504660, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637504323, "dur":402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i3vu7rggljoq.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637504805, "dur":271, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__17.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637505083, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637504791, "dur":375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2l0o7jqnuw72.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637505195, "dur":232, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__55.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637505446, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637505185, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4ra9esuozimc.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637505550, "dur":343, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637505899, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637505541, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fmblkka5sqrn.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506030, "dur":402, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__43.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506437, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506019, "dur":490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b2ml6facqnui.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506579, "dur":153, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__17.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506738, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506567, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jg6wl7jr5rfb.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506869, "dur":416, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__10.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637507291, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637506857, "dur":514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/413u5ul6hxpv.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637507424, "dur":217, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__5.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637507646, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637507388, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/oih3y2kdvdvo.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637507753, "dur":434, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637508193, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637507741, "dur":556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/94qr51qwx0b9.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637508322, "dur":294, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__51.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637508621, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637508312, "dur":373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wgzzee5wl20e.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637508700, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zg7qj4bjaygj.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637508876, "dur":149, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637509074, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637508855, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7m6hl2umjdlw.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637509218, "dur":436, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__62.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637509661, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637509207, "dur":539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4qjz7gbcs9gp.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637509785, "dur":297, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__17.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1731152637510088, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152637509763, "dur":410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kyrexkcwlkv6.o" }}
+,{ "pid":12345, "tid":5, "ts":1731152637510315, "dur":21413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Temp/EditorBuildOutput/MethodMap.tsv" }}
+,{ "pid":12345, "tid":5, "ts":1731152637531732, "dur":64338047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731152701869782, "dur":76, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles D:/galaga_web/TemplateData/unity-logo-light.png" }}
+,{ "pid":12345, "tid":5, "ts":1731152701870834, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/unity-logo-light.png" }}
+,{ "pid":12345, "tid":5, "ts":1731152701872025, "dur":500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/favicon.ico" }}
+,{ "pid":12345, "tid":5, "ts":1731152701872534, "dur":36767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634858921, "dur":4793, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634863716, "dur":283, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634864000, "dur":246, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634864246, "dur":178, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634864424, "dur":182, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634864606, "dur":322, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634864928, "dur":3016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152634867990, "dur":2626552, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637494577, "dur":192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WebGL\\ManagedStripped\\UnityLinkerToEditorData.json" }}
+,{ "pid":12345, "tid":6, "ts":1731152637494544, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ClassRegistrationGenerator D:/unityTemp2/Galaga-master/Galaga/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637494865, "dur":4181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637499068, "dur":438, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__28.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637499515, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637499047, "dur":555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/awko0mw203nd.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637499633, "dur":462, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCFieldValuesTable.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637500102, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637499622, "dur":551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/613x16ei99cb.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637500201, "dur":380, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__21.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637500586, "dur":59, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637500192, "dur":453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vhimkayhd9xx.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637500676, "dur":395, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501078, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637500668, "dur":479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0vnfpm1j8fqe.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501201, "dur":233, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.ParticleSystemModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501188, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/onq1l5rwgicn.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501486, "dur":336, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__8.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501829, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501475, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/e1jb55i25zzq.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501957, "dur":379, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__12.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637502344, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637501947, "dur":473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4b9cdnq9xjrj.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637502469, "dur":291, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestTextureModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637502769, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637502457, "dur":387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y9yweueauxba.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637502894, "dur":268, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__27.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637503172, "dur":94, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637502878, "dur":388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pgh0kdi5xfcu.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637503299, "dur":348, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__9.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637503654, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637503288, "dur":448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/13az1t4el72y.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637503773, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s4hg9zmfgfb6.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637503916, "dur":266, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__6.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637504187, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637503899, "dur":367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sdw64go6y96r.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637504292, "dur":337, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__25.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637504636, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637504282, "dur":447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3stvkon9qpjv.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637504779, "dur":158, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AnimationModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637504944, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637504767, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/voz1ukogp6qw.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637505106, "dur":198, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PhysicsModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637505313, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637505093, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mjj12ywczul6.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637505440, "dur":529, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__30.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637505976, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637505429, "dur":627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h4ehdo90cql9.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637506072, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cup7wbo24bwz.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637506190, "dur":345, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__37.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637506543, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637506179, "dur":455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wihjt07l0kbp.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637506664, "dur":488, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__4.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507158, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637506653, "dur":584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p3xu55k2wobp.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507260, "dur":110, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507252, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g91oia80fvwr.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507434, "dur":287, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__61.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507728, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507424, "dur":386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jbgbs7wepl55.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507845, "dur":326, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__22.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637508177, "dur":103, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637507835, "dur":445, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wp224peghbfd.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637508340, "dur":537, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__3.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637508885, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637508305, "dur":669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/eb6zava9kxmk.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637509015, "dur":512, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__24.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637509534, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637508991, "dur":614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2k9e086ann2f.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637509674, "dur":399, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AIModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637510079, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637509655, "dur":500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j0fju0q412fa.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637510207, "dur":153, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppUnresolvedIndirectCallStubs.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1731152637510367, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152637510196, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u36do9y8mmht.o" }}
+,{ "pid":12345, "tid":6, "ts":1731152637510444, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a" }}
+,{ "pid":12345, "tid":6, "ts":1731152637510647, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)" }}
+,{ "pid":12345, "tid":6, "ts":1731152637511145, "dur":590047, "ph":"X", "name": "Brotli",  "args": { "detail":"D:/galaga_web/Build/galaga_web.framework.js.unityweb" }}
+,{ "pid":12345, "tid":6, "ts":1731152638101195, "dur":63768624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731152701869823, "dur":289, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles D:/galaga_web/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":6, "ts":1731152701870876, "dur":714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/MemoryProfiler.png" }}
+,{ "pid":12345, "tid":6, "ts":1731152701871622, "dur":462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/progress-bar-empty-dark.png" }}
+,{ "pid":12345, "tid":6, "ts":1731152701872094, "dur":37205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634858983, "dur":4739, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634863724, "dur":210, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634863935, "dur":233, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634864169, "dur":170, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634864340, "dur":159, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634864499, "dur":190, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634864690, "dur":295, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634864986, "dur":2949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152634867988, "dur":2626600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637494588, "dur":4452, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637499069, "dur":595, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__9.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637499676, "dur":116, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637499042, "dur":750, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zgnzkfxz8nba.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637499837, "dur":375, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__8.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500219, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637499814, "dur":483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xe935jaua5wm.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500331, "dur":378, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__12.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500715, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500312, "dur":474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qprz5jg2oniu.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500861, "dur":70, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericAdjustorThunkTable.c" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500824, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nd2sx6ngq0cd.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500978, "dur":214, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501200, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637500969, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0uvzstnarn4l.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501316, "dur":113, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodTable.c" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501306, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ikpo4uukzgxb.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501485, "dur":284, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__5.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501776, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501475, "dur":392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9kgi6lho84mx.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501917, "dur":333, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\__Generated.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637502256, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637501905, "dur":424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tu5zjippyrvi.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637502359, "dur":292, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637502658, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637502342, "dur":396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wbmn2x12bxdh.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637502751, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vh9pv8ychmdg.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637502879, "dur":128, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppRgctxTable.c" }}
+,{ "pid":12345, "tid":7, "ts":1731152637502861, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sr155oiudv6m.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503050, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qxjx5hsmtl1i.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503164, "dur":282, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__19.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503452, "dur":63, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503152, "dur":363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jqbftzoulehz.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503558, "dur":341, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__3.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503904, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503542, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/la5dpifdpv29.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637504003, "dur":389, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__16.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637504399, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637503994, "dur":475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h6w0racqr8vj.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637504500, "dur":573, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__54.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505080, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637504490, "dur":674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3jqsuceqvg5w.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505237, "dur":141, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.JSONSerializeModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505387, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505224, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vdmmf4ehnv3b.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505516, "dur":294, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__15.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505816, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505505, "dur":380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xsislipvy1mc.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505911, "dur":194, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__20.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506113, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637505902, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a2ey40jkalme.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506230, "dur":399, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Mono.Security.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506634, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506215, "dur":493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1froluatxycg.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506747, "dur":80, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestTextureModule_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506734, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/acmfiz82tf3s.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506878, "dur":369, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__7.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507252, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637506869, "dur":463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tlgnpw442bo7.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507363, "dur":250, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__53.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507620, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507353, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i4m4e3zssstd.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507721, "dur":107, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericClassTable.c" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507711, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jv958yzj3403.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507892, "dur":469, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637508382, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637507881, "dur":580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9fhnrpvq50cd.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637508494, "dur":407, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__19.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637508910, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637508481, "dur":530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6lfjx96rsao5.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637509045, "dur":548, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__2.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637509600, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637509025, "dur":653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3faq5gq6pyiq.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637509736, "dur":345, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__9.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1731152637510088, "dur":139, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152637509707, "dur":520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/iucsltordt85.o" }}
+,{ "pid":12345, "tid":7, "ts":1731152637510254, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data" }}
+,{ "pid":12345, "tid":7, "ts":1731152637510822, "dur":86592, "ph":"X", "name": "Assemble",  "args": { "detail":"WebGL Data Library/Bee/artifacts/WebGL/webgl.data" }}
+,{ "pid":12345, "tid":7, "ts":1731152637597537, "dur":64272284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731152701869825, "dur":817, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles D:/galaga_web/TemplateData/fullscreen-button.png" }}
+,{ "pid":12345, "tid":7, "ts":1731152701870842, "dur":682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/fullscreen-button.png" }}
+,{ "pid":12345, "tid":7, "ts":1731152701871568, "dur":478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/progress-bar-empty-light.png" }}
+,{ "pid":12345, "tid":7, "ts":1731152701872057, "dur":37245, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634859008, "dur":4717, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634863726, "dur":217, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634863943, "dur":213, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634864156, "dur":170, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634864326, "dur":170, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634864496, "dur":177, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634864674, "dur":290, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634864964, "dur":2977, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152634867951, "dur":38332, "ph":"X", "name": "ComputeLeafInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/il2cpp.a" }}
+,{ "pid":12345, "tid":8, "ts":1731152634906299, "dur":2588286, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637494586, "dur":4354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637498971, "dur":217, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__1.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637499195, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637498940, "dur":328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/194857rwuo1z.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637499308, "dur":350, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__8.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637499670, "dur":112, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637499296, "dur":487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vl8ve1t64rz6.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637499816, "dur":346, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__11.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637500167, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637499799, "dur":450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6r9s1nu91rm6.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637500282, "dur":408, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__46.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637500697, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637500269, "dur":505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i5demej5z1y0.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637500805, "dur":362, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637501173, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637500794, "dur":458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uigdiejdomhi.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637501276, "dur":272, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637501555, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637501265, "dur":372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/d9kbraxzskaw.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637501678, "dur":673, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__15.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637502363, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637501663, "dur":779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/e3k211j1f873.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637502503, "dur":79, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine_CodeGen.c" }}
+,{ "pid":12345, "tid":8, "ts":1731152637502490, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/paidxjl1y03e.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637502666, "dur":332, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__14.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503003, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637502651, "dur":444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cdf458ayvdbt.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503143, "dur":364, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PropertiesModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503514, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503117, "dur":494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/e4hsn0psn805.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503638, "dur":106, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestModule_CodeGen.c" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503627, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3q5vlxv8vw4n.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503862, "dur":380, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__36.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504249, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637503851, "dur":482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b3dvdrtoxwz5.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504363, "dur":256, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UnityWebRequestModule.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504624, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504353, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j29z6rgrvcqq.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504718, "dur":113, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__2.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504839, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504709, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2hppqn8uyqif.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504945, "dur":352, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppTypeDefinitions.c" }}
+,{ "pid":12345, "tid":8, "ts":1731152637504936, "dur":390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8fyiwtjkl8f1.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637505372, "dur":188, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__2.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637505566, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637505350, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tv2bvlwbi9a1.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637505662, "dur":408, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__19.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637506077, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637505652, "dur":508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o9nt78kj1m01.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637506186, "dur":337, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__47.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637506529, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637506177, "dur":437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3kh21nx22pak.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637506763, "dur":165, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppMetadataUsage.c" }}
+,{ "pid":12345, "tid":8, "ts":1731152637506752, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ciico3qxif8h.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637506979, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/z0nlr0v9icz1.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637507064, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/va2lwe5fo3zr.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637507190, "dur":300, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__45.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637507497, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637507173, "dur":413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hxtx1y26vzhl.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637507711, "dur":474, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__16.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637508192, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637507698, "dur":584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cnkmd1f1b0ch.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637508304, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qyiy5mlf2mfx.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637508419, "dur":427, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__3.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637508852, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637508393, "dur":552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2utyydqhon2p.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637508961, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cusds9nt6dlq.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637509058, "dur":266, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__35.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637509330, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637509044, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/avtetbdqtuiq.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637509424, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/modfh63b44jw.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637509502, "dur":536, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__29.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637510045, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637509492, "dur":632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vbocgwa03rzw.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637510156, "dur":188, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__2.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1731152637510351, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152637510146, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hfqaj4bklzq6.o" }}
+,{ "pid":12345, "tid":8, "ts":1731152637510435, "dur":64359382, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731152701869822, "dur":163, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles D:/galaga_web/TemplateData/webmemd-icon.png" }}
+,{ "pid":12345, "tid":8, "ts":1731152701870857, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/galaga_web/TemplateData/webmemd-icon.png" }}
+,{ "pid":12345, "tid":8, "ts":1731152701871985, "dur":37331, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731152701915295, "dur":1247, "ph":"X", "name": "ProfilerWriteOutput" }
+,

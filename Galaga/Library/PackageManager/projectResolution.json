@@ -1,0 +1,344 @@
+{
+  "context": {
+    "projectPath": "D:/unityTemp2/Galaga-master/Galaga/Packages",
+    "unityVersion": "6000.0.3f1"
+  },
+  "inputs": [
+    "D:\\unityTemp2\\Galaga-master\\Galaga\\Packages\\manifest.json",
+    "D:\\unityTemp2\\Galaga-master\\Galaga\\Packages\\packages-lock.json"
+  ],
+  "outputs": {
+    "com.unity.ai.navigation@2.0.0": {
+      "name": "com.unity.ai.navigation",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.ai.navigation",
+      "fingerprint": "f6367599281e08d75acc8229ad70ac03cfe57ac1",
+      "editorCompatibility": "2023.2.0a18",
+      "version": "2.0.0",
+      "source": "registry"
+    },
+    "com.unity.collab-proxy@2.3.1": {
+      "name": "com.unity.collab-proxy",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.collab-proxy",
+      "fingerprint": "9fe9d34b5e265703867fd4b6e7ef78001c1fa370",
+      "editorCompatibility": "2020.3.48f1",
+      "version": "2.3.1",
+      "source": "registry"
+    },
+    "com.unity.ide.rider@3.0.28": {
+      "name": "com.unity.ide.rider",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.ide.rider",
+      "fingerprint": "7605a3979f4b0ed9100a7fcc2d6140ebc24fc251",
+      "editorCompatibility": "2019.2.6f1",
+      "version": "3.0.28",
+      "source": "registry"
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.recorder@5.1.1": {
+      "name": "com.unity.recorder",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.recorder",
+      "fingerprint": "b7e35dfd1c28b88ef57d70dfd9ceb57dadc56c0d",
+      "editorCompatibility": "2023.1.1f1",
+      "version": "5.1.1",
+      "source": "registry"
+    },
+    "com.unity.test-framework@1.4.4": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.test-framework",
+      "fingerprint": "4e62d75b705a73b10f689eb9441e75e69dcd0116",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.4",
+      "source": "registry"
+    },
+    "com.unity.timeline@1.8.6": {
+      "name": "com.unity.timeline",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.timeline",
+      "fingerprint": "9ac0df085fa85d0d1f0b83dd933674497fd2774e",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.8.6",
+      "source": "registry"
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.ugui",
+      "fingerprint": "d136c321e1b81d87a4301a7fbedcc343484e3c1a",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin"
+    },
+    "com.unity.visualscripting@1.9.4": {
+      "name": "com.unity.visualscripting",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.visualscripting",
+      "fingerprint": "0920df93f9574f857a55af27bd38fdd9230a3f51",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.9.4",
+      "source": "registry"
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
+    },
+    "com.unity.collections@2.4.0": {
+      "name": "com.unity.collections",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.collections",
+      "fingerprint": "cf7bbd1c92f28e6faaa49463739a6a980c9c32b9",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.4.0",
+      "source": "registry"
+    },
+    "com.unity.bindings.openimageio@1.0.0": {
+      "name": "com.unity.bindings.openimageio",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.bindings.openimageio",
+      "fingerprint": "3229d2aa5c76c70269dc58c79d5864ec84fa4a74",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "1.0.0",
+      "source": "registry"
+    },
+    "com.unity.burst@1.8.13": {
+      "name": "com.unity.burst",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.burst",
+      "fingerprint": "a1b307ba9540997f3a94ffc0d1cf6342e55e30c7",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.8.13",
+      "source": "registry"
+    },
+    "com.unity.nuget.mono-cecil@1.11.4": {
+      "name": "com.unity.nuget.mono-cecil",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+      "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "1.11.4",
+      "source": "registry"
+    },
+    "com.unity.test-framework.performance@3.0.3": {
+      "name": "com.unity.test-framework.performance",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.test-framework.performance",
+      "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "3.0.3",
+      "source": "registry"
+    },
+    "com.unity.mathematics@1.3.1": {
+      "name": "com.unity.mathematics",
+      "resolvedPath": "D:\\unityTemp2\\Galaga-master\\Galaga\\Library\\PackageCache\\com.unity.mathematics",
+      "fingerprint": "0cc332b9879082676002a97378a6d3d6296282a3",
+      "editorCompatibility": "2018.3.0a1",
+      "version": "1.3.1",
+      "source": "registry"
+    }
+  }
+}

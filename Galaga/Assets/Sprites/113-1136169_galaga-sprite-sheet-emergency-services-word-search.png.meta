@@ -1,0 +1,3837 @@
+fileFormatVersion: 2
+guid: 72f6316586c50be4dac047f49ad6eb09
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 357
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d5994157dedc4d82bf455b754d7ac
+      internalID: 1818499934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 357
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94db8d761c58624e97580448f676ff5
+      internalID: -1761709628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 357
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a370ec5e5bf2e45aa19fe62f0d30c0
+      internalID: -1309650136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 357
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee512b65224ba1479bcf968ad3f12ad
+      internalID: -1705914083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 352
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0310bf656fa814bb9732453c568985
+      internalID: -977353686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 357
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ab03f0aa69ef46a6674d39dab007e
+      internalID: -1387830591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 305
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c192ec482faacd40a1c5330146c1058
+      internalID: -1948407967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 305
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc150bb35e35ce4d8073e0d489d87bd
+      internalID: 193955448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 305
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d156f0a849f9cc449744fee0cf8931c
+      internalID: -923223871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f324a2933ec814bbafe50eb91d2257
+      internalID: 482282719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 305
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b1c87086d7d94d9c5762dffd815bf
+      internalID: -138533466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 305
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30f4613e2f2eb4daad7174939d5ed6
+      internalID: -807674467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 306
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325bd35a30116054cb61b7e4aca9320b
+      internalID: 279865826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 293
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58decf61adfee4409a22f3c3eac82ea
+      internalID: 1842018027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 292
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ed0848fbc08f44e96b7bc1f05d710e
+      internalID: -215809080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cf5c5475db0949bacb0a91456c737
+      internalID: -57052467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f4938af2748c46a6fdef4f5d867d3
+      internalID: 95661566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 289
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39695a45083632f4c9280874addcfe4e
+      internalID: -1822761359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 292
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f513c5029e5766643b5ced270120a6a6
+      internalID: -1717838499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bac6eb5b6291241a2235c8e3e72e24
+      internalID: -1516258478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab438927499a5647ad892178709fee3
+      internalID: 1631633623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 281
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c63757add600de45bee34b485ca38d8
+      internalID: 1172647044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 281
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01986c23aa7d3c348b43418c42bac795
+      internalID: 1936997926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae839d1aaa93446b5afd2a5d7a1aa4
+      internalID: 1927026106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 281
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5d8355d03f63478b35c02418b2ede
+      internalID: -1934635801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 281
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b99557551467045a2dc66558913bb8
+      internalID: -222274111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 281
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0193439002a824086f0c1cb127542c
+      internalID: 745576419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 282
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd50d287265eed45aaa032101a45048
+      internalID: 1155530204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 291
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c8ad5c1c9c66641af1d40b1ffc1b56
+      internalID: -1276697824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 291
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcb273607643354bb718d3112cebdcd
+      internalID: 646347158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 291
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b41febbf33c74aa73f77754edaa2e
+      internalID: 1071856857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 291
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930961f0047abb04bb1f6e9902f5c4d1
+      internalID: -1316051918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_32
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 264
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80802ebd92d45c449a6e8e4c3b16e79
+      internalID: -1742037639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f7951bae4b874692020e183146d28
+      internalID: 379859539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 257
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f95693ce423a042836a641738d628f
+      internalID: 958685790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 257
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9f03847b923594c9216658fe80aa4a
+      internalID: 1236804662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 257
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee04992e4db3a54792667b5c67026a6
+      internalID: -133754244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe23e5b0017f0d4e8f80088c8480c20
+      internalID: -679515197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 258
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bd28b65b443a0498903159cf3c5ac0
+      internalID: -1786639154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf0f68be0fb8140976da754518d0b3
+      internalID: 693571746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 258
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2769e7152b7e3e5418e435bd362439c2
+      internalID: 959887398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7827d0ea90c499d4abdb790646caa024
+      internalID: 1933862452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39eca03d27b242448c53d400f7c4a54
+      internalID: -1285118593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a5496b22a66d46905471adc9336de
+      internalID: 693551683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2fb8168e071f946a30469652f16031
+      internalID: 29608180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24331b5e409233a4a95d716f94f2aec0
+      internalID: 1620091365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 234
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57eb823ec818e4e80889bef14f6047
+      internalID: 19715158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 234
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab45ee57aec73f4aa8d61ce1f6d1251
+      internalID: -2049962715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 234
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1987b01b2a88f6409d363d193be92d6
+      internalID: -1907759669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 236
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd96b68356ae3a47b30123766086fa2
+      internalID: -828232768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b2cf5f8a0bc04f999a4720a614425
+      internalID: 1713367544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 236
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6e0e13d10485745b00e09b16c9b5a6
+      internalID: -1324291926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 239
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4dd3a5f25fad044a50064906148772
+      internalID: -1678651150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_53
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 236
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6c3e21fa4e91147a51eb90df1ed858
+      internalID: -772679942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 239
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a807d6e239f2ea4ca8f00342f1506b9
+      internalID: -1857294783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 231
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41ac1c5350185e43b1f0aac77a7e868
+      internalID: 1819649188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 233
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966992fcd0fcfb44a8fb46687467df12
+      internalID: 1548480653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 231
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5bbc72daa1c594ea87ef5993d0d431
+      internalID: 1308270111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 233
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35e292339ea2f41b2ce219eaba57c9
+      internalID: -1830349022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_59
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 231
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d79406de4f7ea4c882be3eb76584b4
+      internalID: -1956590598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 233
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeb4311092f376499807d5236b93997
+      internalID: 490585032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_61
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 223
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b749bb5f64af4f83e97c372bb5c56
+      internalID: -1062203432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_62
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 228
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa426b3fe3cadd4daef040316daa77f
+      internalID: -1344368565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 223
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3284b94f38d74a840f347e658f55b
+      internalID: -73995742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 228
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d3c2b526e1a245b104bef4249aaa8
+      internalID: -167892445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 223
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadc7b112735bf44b16442ae205f33a
+      internalID: -1013971504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_66
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 228
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583c828710f9b254bb6b0312fc698f7b
+      internalID: 41126640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e8562a9a76214fa6269c8ccbba5f8
+      internalID: -751427522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 212
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db49ca9edff66124b9a3a07720a3ebcd
+      internalID: -1139551679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f1b4df9b59ebd4b8740efb9e54f33d
+      internalID: -2060987302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 211
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfb86af9f8bc2c48bf2fcdded558025
+      internalID: -813798008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 211
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c366700fbcdb704a9c2200d93bfcdf4
+      internalID: 1143858668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 210
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c559e536f138f4f86e801c40cd9889
+      internalID: 854103876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 212
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63136dfd743d60649ae90061974f3d3a
+      internalID: 460181605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 211
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78848a7829bb741b3c9a177caef028
+      internalID: -1659390144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 215
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89314926ff149e8409b142377f796e81
+      internalID: -295880072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_76
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 220
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58cf52afe0d7a4c89e29088a210342
+      internalID: -85914792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_77
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 215
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38c2606aceb1bb4e8a3513c19691f6a
+      internalID: 1013975759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_78
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 220
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0323fb3648b9c4e4eb94837b81e3c943
+      internalID: 1294419978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_79
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 215
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdadd562a5f8445a17dd4999157ad7
+      internalID: 1076976765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_80
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 220
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c282d4a436c54b9d7bb4b2033da87
+      internalID: 996188937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 209
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598fb492a506a54cbcde4cbff445692
+      internalID: -1661213789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 212
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120f0227ff2b7df4dac72b529126143c
+      internalID: 1509290690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 209
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be151e149f9ed540a740090c74b7920
+      internalID: -348452334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 212
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e946b1f046f81409f96008c72c08fd
+      internalID: 269028016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_85
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 209
+        width: 36
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281ec70378d68da40b07b9cb8983fbf9
+      internalID: -695318355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_86
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 212
+        width: 34
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cdfaab956c2494cad30a6c08e9b4bf
+      internalID: 208805007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_87
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 199
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be60d3d99b9bd946aa28912060ccf94
+      internalID: -1132742678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 204
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e92ada69a19145a9a9eac296c1779
+      internalID: -1795191215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 199
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69c7145e486054aa725f10be823a98
+      internalID: 1847262908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_90
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 204
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d939beef665a1b94f8b51d9a7b64b6a7
+      internalID: -2052915365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_91
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 199
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54102d8a83896aa43a93797788120267
+      internalID: 28828038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_92
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 204
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a772b8c0dad5db24aac317fcaa792786
+      internalID: -112586545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_93
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 188
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b49b8ffcc4dfc4496e26cc6d416cb6
+      internalID: 1025849401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_94
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 188
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805359cbc1c611a47a3a0cac51da95ff
+      internalID: -13069326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_95
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f5559e67c5e584f808d23f986ddc8e
+      internalID: -604839002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df26574d5741643a27a0b3ef023000
+      internalID: 2133460007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_97
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d39f1f3ec74ea428af49c6a0a4dc70
+      internalID: 1847102514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_98
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 187
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba119d2cc9058a043801d5bc33feccd1
+      internalID: 584542519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 138
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a840bb382eaa644b454964d7ee85ce
+      internalID: 1584470939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 187
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cdff55432f1434ab34bd46b4a12cc7
+      internalID: -602267843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497bae578c2784248ba964d3c966f1e0
+      internalID: -1123251576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_102
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dd69f1791a57f4b9390071d59d8fad
+      internalID: -1787202713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 186
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab974e10697ac54b9dd05dda45d9981
+      internalID: -1195478414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b964ea59ce894245be7836514e14f37
+      internalID: -296923370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_105
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 139
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe0bd548bc6854f86564362c09f1a1
+      internalID: -1934202230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_106
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 186
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ad0a7eea146dd45b72f0f38a89f701
+      internalID: -1192460514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_107
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 142
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5958e49aed19c5145a6b251388032213
+      internalID: 654926310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_108
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 164
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f0858b2c336c2439d546d78765f404
+      internalID: 1241766398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ea761175292a74f93adab037b42e90
+      internalID: -1741339420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 141
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc5de6c0dbb3604bbe9e72c5d5b0456
+      internalID: -971225757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 187
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce11f9229d5cb49a16b75d0d0e9e43
+      internalID: 425369036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 164
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2860611e17c1dc45bde0865eda28917
+      internalID: -2105217477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_113
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 140
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc3bd5c0e3b6e442bb4880f9c0d19a3
+      internalID: -485585887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 187
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d189dcbc7690ec4cb09c5ea27b7f3cc
+      internalID: -714594766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_115
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 193
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb44477e53cf246a1c60ce1e6c9aa6
+      internalID: -278326795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_116
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 173
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de0a1144b7211f43abac231f6119854
+      internalID: -1367969000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_117
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 139
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b97b80fc1f764fb5831f978f5c89a
+      internalID: -751565485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_118
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 137
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f16eaa0e9776446b1a66d017b37c44
+      internalID: -1720170997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_119
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 146
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c5245d8f55ac42b33cfec272ff9b1
+      internalID: -1048434604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_120
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49311b22fdfae994d915f697d76df94d
+      internalID: 1337732327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_121
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c28b01268dfc9243b724ae733184b48
+      internalID: 1663995562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_122
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 130
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f8264c3238f7418a56b02f170453d
+      internalID: -2089469380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_123
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 193
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d795c860b1cb6ef468ad9a05b1598fe8
+      internalID: 1212209079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_124
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 115
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dbc9a91fe18bd4986eb853fc9b4845
+      internalID: -887803830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_125
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 115
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e25f4def262a7458ae25a8e38799b2
+      internalID: -1801065844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_126
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee233c176966e4c80b22c6e57859f9
+      internalID: 170693629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_127
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b340df41bc855445bba610d6cd95786
+      internalID: 1982474899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_128
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf22a9a53cf5042bf444c93a325835
+      internalID: 1828987986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_129
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b2ebc0dfe42ff49a77e48473174bc6
+      internalID: 1750194999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_130
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adc20be7272fc240af45cd265741c49
+      internalID: -193896611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_131
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 91
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b44b3a2cdb0da043bb7453164ed0b7d
+      internalID: -198826088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e14406e39ba740ba9335df5d220f6
+      internalID: 799304368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_133
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182827adbff7bc47a543d8975fa5f48
+      internalID: -2063237880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_134
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05fe729ca63a94b83f804911db8350
+      internalID: -1308604836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_135
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 92
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90465f1561c4f846b0442e48acaa77b
+      internalID: -269225344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_136
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 91
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0324116b336c4ea92bcd45f747445
+      internalID: 697811553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_137
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 90
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f24add9406fd44fbd628a840428c16
+      internalID: 1734561232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_138
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6c34b267518384188ff151ac7af892
+      internalID: -1985512248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_139
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db88768d6b63a3f4c9df60c880f51c4f
+      internalID: -1929134725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_140
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1069082bfc4964ba919d3311204bb4
+      internalID: -435353179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_141
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 89
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5e84c9cc5fe3a4ba6359d1d7fac6cf
+      internalID: -221600148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_142
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 89
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e018620c5f6a1459ee2a7380de72a6
+      internalID: -1513176224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_143
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 89
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b75008fbbafb4ba5e24d01e7d3b36
+      internalID: -548388334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_144
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 65
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71d3331c528e045acddc00bb47f89e
+      internalID: 1786020644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_145
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce99691bbe494428f698f455668018
+      internalID: -1327864953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_146
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfc986717692b4895f103ebb752369
+      internalID: 328660623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a53473bd42244d8d798f099de17ad
+      internalID: -817021016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_148
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae5632b273d694b94ed9d2e09a5334
+      internalID: 1058802020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b455ee692ad4c8d499530c11d163b0fd
+      internalID: -1446599475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c7f1610c7fe1469e054f4da468e6e
+      internalID: -1478253153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_151
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8b2f70a342e148be79bbb22d793b2
+      internalID: 144692246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_152
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7beccd198aa3b45a01e01bd54303ea
+      internalID: -35723013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_153
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e3e8e45cf69544ad8d48fd509fd78
+      internalID: -2106030030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_154
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271fea44e3d549409a0d3cdbc440a5e
+      internalID: -588059368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_155
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 13
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c9f2f2b5f2dd4289bc5303dd6e7ad
+      internalID: 950020648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04accf407632e394f8d163d2adb432a9
+      internalID: 32075454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c549709edab646b646bef8f13ab6b
+      internalID: 1988200614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113-1136169_galaga-sprite-sheet-emergency-services-word-search_158
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a8a742573b764dbdc69d4b0f52ff3
+      internalID: -204751910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_0: 1818499934
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_1: -1761709628
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_10: -138533466
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_100: -602267843
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_101: -1123251576
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_102: -1787202713
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_103: -1195478414
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_104: -296923370
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_105: -1934202230
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_106: -1192460514
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_107: 654926310
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_108: 1241766398
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_109: -1741339420
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_11: -807674467
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_110: -971225757
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_111: 425369036
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_112: -2105217477
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_113: -485585887
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_114: -714594766
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_115: -278326795
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_116: -1367969000
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_117: -751565485
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_118: -1720170997
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_119: -1048434604
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_12: 279865826
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_120: 1337732327
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_121: 1663995562
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_122: -2089469380
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_123: 1212209079
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_124: -887803830
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_125: -1801065844
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_126: 170693629
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_127: 1982474899
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_128: 1828987986
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_129: 1750194999
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_13: 1842018027
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_130: -193896611
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_131: -198826088
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_132: 799304368
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_133: -2063237880
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_134: -1308604836
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_135: -269225344
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_136: 697811553
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_137: 1734561232
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_138: -1985512248
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_139: -1929134725
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_14: -215809080
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_140: -435353179
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_141: -221600148
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_142: -1513176224
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_143: -548388334
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_144: 1786020644
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_145: -1327864953
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_146: 328660623
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_147: -817021016
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_148: 1058802020
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_149: -1446599475
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_15: -57052467
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_150: -1478253153
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_151: 144692246
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_152: -35723013
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_153: -2106030030
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_154: -588059368
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_155: 950020648
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_156: 32075454
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_157: 1988200614
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_158: -204751910
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_16: 95661566
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_17: -1822761359
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_18: -1717838499
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_19: -1516258478
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_2: -1309650136
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_20: 1631633623
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_21: 1172647044
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_22: 1936997926
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_23: 1927026106
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_24: -1934635801
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_25: -222274111
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_26: 745576419
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_27: 1155530204
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_28: -1276697824
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_29: 646347158
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_3: -1705914083
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_30: 1071856857
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_31: -1316051918
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_32: -1742037639
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_33: 379859539
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_34: 958685790
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_35: 1236804662
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_36: -133754244
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_37: -679515197
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_38: -1786639154
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_39: 693571746
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_4: -977353686
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_40: 959887398
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_41: 1933862452
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_42: -1285118593
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_43: 693551683
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_44: 29608180
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_45: 1620091365
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_46: 19715158
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_47: -2049962715
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_48: -1907759669
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_49: -828232768
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_5: -1387830591
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_50: 1713367544
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_51: -1324291926
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_52: -1678651150
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_53: -772679942
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_54: -1857294783
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_55: 1819649188
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_56: 1548480653
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_57: 1308270111
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_58: -1830349022
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_59: -1956590598
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_6: -1948407967
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_60: 490585032
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_61: -1062203432
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_62: -1344368565
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_63: -73995742
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_64: -167892445
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_65: -1013971504
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_66: 41126640
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_67: -751427522
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_68: -1139551679
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_69: -2060987302
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_7: 193955448
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_70: -813798008
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_71: 1143858668
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_72: 854103876
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_73: 460181605
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_74: -1659390144
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_75: -295880072
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_76: -85914792
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_77: 1013975759
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_78: 1294419978
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_79: 1076976765
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_8: -923223871
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_80: 996188937
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_81: -1661213789
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_82: 1509290690
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_83: -348452334
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_84: 269028016
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_85: -695318355
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_86: 208805007
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_87: -1132742678
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_88: -1795191215
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_89: 1847262908
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_9: 482282719
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_90: -2052915365
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_91: 28828038
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_92: -112586545
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_93: 1025849401
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_94: -13069326
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_95: -604839002
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_96: 2133460007
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_97: 1847102514
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_98: 584542519
+      113-1136169_galaga-sprite-sheet-emergency-services-word-search_99: 1584470939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

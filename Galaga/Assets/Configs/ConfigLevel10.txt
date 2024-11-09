@@ -1,0 +1,40 @@
+{
+    "MonsterGrid": [
+        ".p.p.b.b.p.p.",
+        ".r.r.b.b.r.r.",
+        ".b.b.g.g.b.b.",
+        ".r.r.r.r.r.r.",
+        "..g.g.g.g.g.."
+    ],
+    "MonsterConfig": [
+        {
+            "Name": "Red",
+            "Speed": 2.0,
+            "ScoreAward": 200,
+            "Weapon": 2,
+            "Health": 0.0
+        },
+        {
+            "Name": "Green",
+            "Speed": 3.5,
+            "ScoreAward": 300,
+            "Weapon": 2.0,
+            "Health": 0.0
+        },
+        {
+            "Name": "Blue",
+            "Speed": 1.0,
+            "ScoreAward": 100,
+            "Weapon": 1,
+            "Health": 0.0
+        },
+        {
+            "Name": "Purple",
+            "Speed": 1.5,
+            "ScoreAward": 50,
+            "Weapon": 1.5,
+            "Health": 0.0
+        }
+      
+    ]
+}

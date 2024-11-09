@@ -1,0 +1,2 @@
+Build path: D:/galaga_web
+Build number: 3
