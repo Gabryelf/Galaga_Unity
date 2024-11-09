@@ -1,7 +1,9 @@
-﻿using System.Collections;
+﻿using System; // Подключаем пространство имен System для Action
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Assertions;
-using UnityEngine.UI; // Не забудьте добавить это для работы с UI
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 namespace Galaga.Game
 {
@@ -25,9 +27,8 @@ namespace Galaga.Game
         private const float ExplParticlesDuration = 2f;
         private const float RocketLifeTime = 2f;
 
-        private Button butLeftMove; // Кнопка для движения влево
-        private Button butRightMove; // Кнопка для движения вправо
-
+        private Button butLeftMove;
+        private Button butRightMove;
         private bool isLeftPressed = false;
         private bool isRightPressed = false;
 
@@ -45,31 +46,25 @@ namespace Galaga.Game
 
             SpawnShip();
 
-            // Ищем кнопки на сцене по имени
+            // Находим кнопки на сцене по имени
             butLeftMove = GameObject.Find("LeftButton").GetComponent<Button>();
             butRightMove = GameObject.Find("RightButton").GetComponent<Button>();
 
-            // Назначаем обработчики событий для кнопок
-            butLeftMove.onClick.AddListener(() => StartMoveLeft());
-            butRightMove.onClick.AddListener(() => StartMoveRight());
-
+            // Назначаем обработчики для событий нажатия и отпускания кнопок
+            AddButtonEvents(butLeftMove, () => isLeftPressed = true, () => isLeftPressed = false);
+            AddButtonEvents(butRightMove, () => isRightPressed = true, () => isRightPressed = false);
         }
 
         private void Update()
         {
             ProcessInput();
 
-            if (isFreeze == false)
+            if (!isFreeze)
             {
-                // Движение при удержании кнопок
                 if (isLeftPressed)
-                {
                     MoveLeft();
-                }
                 else if (isRightPressed)
-                {
                     MoveRight();
-                }
             }
         }
 
@@ -78,49 +73,29 @@ namespace Galaga.Game
             if (IsDead())
                 return;
 
-            // Обрабатываем стрельбу
             CurrentShootReloadingTime += Time.deltaTime;
-            //if (Input.GetKey(KeyCode.Space) || (CurrentShootReloadingTime > ShootDelay && Input.GetMouseButtonDown(0)))
-            if (CurrentShootReloadingTime > ShootDelay && isFreeze == false)
+            if (CurrentShootReloadingTime > ShootDelay && !isFreeze)
             {
                 CurrentShootReloadingTime = 0f;
                 SpawnRocket();
             }
         }
 
-        private void StartMoveLeft()
-        {
-            isLeftPressed = true;
-            isRightPressed = false;  // Прекращаем движение вправо
-        }
-
-        private void StartMoveRight()
-        {
-            isRightPressed = true;
-            isLeftPressed = false;  // Прекращаем движение влево
-        }
-
         private void MoveLeft()
         {
-            if (isFreeze == false)
-            {
-                Move(-1);
-            }
+            Move(-1);
         }
 
         private void MoveRight()
         {
-            if (isFreeze == false)
-            {
-                Move(1);
-            }
+            Move(1);
         }
 
         private void Move(int direction)
         {
             var deltaPos = Vector3.right * direction * Speed * Time.deltaTime;
             var newPos = HeroFollowPoint.localPosition + deltaPos;
-            newPos.x = Mathf.Clamp(newPos.x, -Edge, Edge); // Ограничиваем движение по оси X
+            newPos.x = Mathf.Clamp(newPos.x, -Edge, Edge);
             HeroFollowPoint.localPosition = newPos;
         }
 
@@ -174,9 +149,22 @@ namespace Galaga.Game
 
         public void Freeze(bool flag)
         {
-            // Это позволит отключать или включать управление кораблем
             enabled = !flag;
+        }
+
+        // Вспомогательный метод для добавления событий нажатия и отпускания
+        private void AddButtonEvents(Button button, Action onPress, Action onRelease)
+        {
+            var eventTrigger = button.gameObject.AddComponent<EventTrigger>();
+            var pointerDown = new EventTrigger.Entry { eventID = EventTriggerType.PointerDown };
+            pointerDown.callback.AddListener(_ => onPress());
+            eventTrigger.triggers.Add(pointerDown);
+
+            var pointerUp = new EventTrigger.Entry { eventID = EventTriggerType.PointerUp };
+            pointerUp.callback.AddListener(_ => onRelease());
+            eventTrigger.triggers.Add(pointerUp);
         }
     }
 }
+
 
