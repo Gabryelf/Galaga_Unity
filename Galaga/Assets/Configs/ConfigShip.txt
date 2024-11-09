@@ -1,5 +1,5 @@
 {
-    "Lifes": 110,
+    "Lifes": 0,
     "Speed": 2.5,
     "ShootDelay": 0.9,
     "Damage": 1.1
